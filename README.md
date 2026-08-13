@@ -8,8 +8,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um estudante de tecnologia focado em d
 
 ⚙️ Desenvolvendo projetos práticos para consolidar conceitos de POO (Programação Orientada a Objetos), estruturas de dados e algoritmos.
 
-🌱 No momento, focado em evoluir minhas habilidades em engenharia de software e arquitetura de sistemas.
-
 ### 🛠️ Tecnologias e Ferramentas
 
 **🌐 Frontend & Scripting**
